@@ -1,39 +1,43 @@
 
+body {
+      background-color: #A8D0E6;
+}
+
 h1 {
    font-family: arial,verdana,sans-serif;
    font-size: 40px;
-   color: black;
+   color: #24305E;
 }
 
 h2 {
    font-family: arial,verdana,sans-serif;
    font-size: 36px;
-   color: black;
+   color: #24305E;
 }
 
 h3 {
    font-family: arial,verdana,sans-serif;
    font-size: 30px;
-   color: black;
+   color: #24305E;
 }
 
 h4 {
    font-family: arial,verdana,sans-serif;
    font-size: 26px;
-   color: black;
+   color: #24305E;
 }
 
 
 p {
    font-family: arial,verdana,sans-serif;
    font-size: 21px;
-   color: black;
+   color: #24305E;
 }
 
 ul {
    list-style-type: disc;
    font-family: arial,verdana,sans-serif;
    font-size: 21px;
-   color: black;
+   color: #24305E;
    
 }
